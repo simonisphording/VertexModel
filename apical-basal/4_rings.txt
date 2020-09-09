@@ -1,0 +1,931 @@
+vertex v1 -0.5 -0.87 1.0 unbound
+vertex v2 0.5 -0.87 1.0 unbound
+vertex v3 1.0 0.0 1.0 unbound
+vertex v4 0.5 0.87 1.0 unbound
+vertex v5 -0.5 0.87 1.0 unbound
+vertex v6 -1.0 0.0 1.0 unbound
+vertex v7 -0.5 -0.87 0.0 unbound
+vertex v8 0.5 -0.87 0.0 unbound
+vertex v9 1.0 0.0 0.0 unbound
+vertex v10 0.5 0.87 0.0 unbound
+vertex v11 -0.5 0.87 0.0 unbound
+vertex v12 -1.0 0.0 0.0 unbound
+vertex v13 -0.5 -2.6 1.0 unbound
+vertex v14 0.5 -2.6 1.0 unbound
+vertex v15 1.0 -1.73 1.0 unbound
+vertex v16 -1.0 -1.73 1.0 unbound
+vertex v17 -0.5 -2.6 0.0 unbound
+vertex v18 0.5 -2.6 0.0 unbound
+vertex v19 1.0 -1.73 0.0 unbound
+vertex v20 -1.0 -1.73 0.0 unbound
+vertex v21 2.0 -1.73 1.0 unbound
+vertex v22 2.5 -0.87 1.0 unbound
+vertex v23 2.0 0.0 1.0 unbound
+vertex v24 2.0 -1.73 0.0 unbound
+vertex v25 2.5 -0.87 0.0 unbound
+vertex v26 2.0 0.0 0.0 unbound
+vertex v27 2.5 0.87 1.0 unbound
+vertex v28 2.0 1.73 1.0 unbound
+vertex v29 1.0 1.73 1.0 unbound
+vertex v30 2.5 0.87 0.0 unbound
+vertex v31 2.0 1.73 0.0 unbound
+vertex v32 1.0 1.73 0.0 unbound
+vertex v33 0.5 2.6 1.0 unbound
+vertex v34 -0.5 2.6 1.0 unbound
+vertex v35 -1.0 1.73 1.0 unbound
+vertex v36 0.5 2.6 0.0 unbound
+vertex v37 -0.5 2.6 0.0 unbound
+vertex v38 -1.0 1.73 0.0 unbound
+vertex v39 -2.0 0.0 1.0 unbound
+vertex v40 -2.0 1.73 1.0 unbound
+vertex v41 -2.5 0.87 1.0 unbound
+vertex v42 -2.0 0.0 0.0 unbound
+vertex v43 -2.0 1.73 0.0 unbound
+vertex v44 -2.5 0.87 0.0 unbound
+vertex v45 -2.0 -1.73 1.0 unbound
+vertex v46 -2.5 -0.87 1.0 unbound
+vertex v47 -2.0 -1.73 0.0 unbound
+vertex v48 -2.5 -0.87 0.0 unbound
+vertex v49 -0.5 -4.33 1.0 unbound
+vertex v50 0.5 -4.33 1.0 unbound
+vertex v51 1.0 -3.46 1.0 unbound
+vertex v52 -1.0 -3.46 1.0 unbound
+vertex v53 -0.5 -4.33 0.0 unbound
+vertex v54 0.5 -4.33 0.0 unbound
+vertex v55 1.0 -3.46 0.0 unbound
+vertex v56 -1.0 -3.46 0.0 unbound
+vertex v57 2.0 -3.46 1.0 unbound
+vertex v58 2.5 -2.6 1.0 unbound
+vertex v59 2.0 -3.46 0.0 unbound
+vertex v60 2.5 -2.6 0.0 unbound
+vertex v61 -2.0 -3.46 1.0 unbound
+vertex v62 -2.5 -2.6 1.0 unbound
+vertex v63 -2.0 -3.46 0.0 unbound
+vertex v64 -2.5 -2.6 0.0 unbound
+vertex v65 3.5 -2.6 1.0 unbound
+vertex v66 4.0 -1.73 1.0 unbound
+vertex v67 3.5 -0.87 1.0 unbound
+vertex v68 3.5 -2.6 0.0 unbound
+vertex v69 4.0 -1.73 0.0 unbound
+vertex v70 3.5 -0.87 0.0 unbound
+vertex v71 4.0 0.0 1.0 unbound
+vertex v72 3.5 0.87 1.0 unbound
+vertex v73 4.0 0.0 0.0 unbound
+vertex v74 3.5 0.87 0.0 unbound
+vertex v75 4.0 1.73 1.0 unbound
+vertex v76 3.5 2.6 1.0 unbound
+vertex v77 2.5 2.6 1.0 unbound
+vertex v78 4.0 1.73 0.0 unbound
+vertex v79 3.5 2.6 0.0 unbound
+vertex v80 2.5 2.6 0.0 unbound
+vertex v81 2.0 3.46 1.0 unbound
+vertex v82 1.0 3.46 1.0 unbound
+vertex v83 2.0 3.46 0.0 unbound
+vertex v84 1.0 3.46 0.0 unbound
+vertex v85 0.5 4.33 1.0 unbound
+vertex v86 -0.5 4.33 1.0 unbound
+vertex v87 -1.0 3.46 1.0 unbound
+vertex v88 0.5 4.33 0.0 unbound
+vertex v89 -0.5 4.33 0.0 unbound
+vertex v90 -1.0 3.46 0.0 unbound
+vertex v91 -2.0 3.46 1.0 unbound
+vertex v92 -2.5 2.6 1.0 unbound
+vertex v93 -2.0 3.46 0.0 unbound
+vertex v94 -2.5 2.6 0.0 unbound
+vertex v95 -3.5 0.87 1.0 unbound
+vertex v96 -3.5 2.6 1.0 unbound
+vertex v97 -4.0 1.73 1.0 unbound
+vertex v98 -3.5 0.87 0.0 unbound
+vertex v99 -3.5 2.6 0.0 unbound
+vertex v100 -4.0 1.73 0.0 unbound
+vertex v101 -3.5 -0.87 1.0 unbound
+vertex v102 -4.0 0.0 1.0 unbound
+vertex v103 -3.5 -0.87 0.0 unbound
+vertex v104 -4.0 0.0 0.0 unbound
+vertex v105 -3.5 -2.6 1.0 unbound
+vertex v106 -4.0 -1.73 1.0 unbound
+vertex v107 -3.5 -2.6 0.0 unbound
+vertex v108 -4.0 -1.73 0.0 unbound
+vertex v109 -0.5 -6.06 1.0 unbound
+vertex v110 0.5 -6.06 1.0 unbound
+vertex v111 1.0 -5.2 1.0 unbound
+vertex v112 -1.0 -5.2 1.0 unbound
+vertex v113 -0.5 -6.06 0.0 unbound
+vertex v114 0.5 -6.06 0.0 unbound
+vertex v115 1.0 -5.2 0.0 unbound
+vertex v116 -1.0 -5.2 0.0 unbound
+vertex v117 2.0 -5.2 1.0 unbound
+vertex v118 2.5 -4.33 1.0 unbound
+vertex v119 2.0 -5.2 0.0 unbound
+vertex v120 2.5 -4.33 0.0 unbound
+vertex v121 -2.0 -5.2 1.0 unbound
+vertex v122 -2.5 -4.33 1.0 unbound
+vertex v123 -2.0 -5.2 0.0 unbound
+vertex v124 -2.5 -4.33 0.0 unbound
+vertex v125 3.5 -4.33 1.0 unbound
+vertex v126 4.0 -3.46 1.0 unbound
+vertex v127 3.5 -4.33 0.0 unbound
+vertex v128 4.0 -3.46 0.0 unbound
+vertex v129 -3.5 -4.33 1.0 unbound
+vertex v130 -4.0 -3.46 1.0 unbound
+vertex v131 -3.5 -4.33 0.0 unbound
+vertex v132 -4.0 -3.46 0.0 unbound
+vertex v133 5.0 -3.46 1.0 unbound
+vertex v134 5.5 -2.6 1.0 unbound
+vertex v135 5.0 -1.73 1.0 unbound
+vertex v136 5.0 -3.46 0.0 unbound
+vertex v137 5.5 -2.6 0.0 unbound
+vertex v138 5.0 -1.73 0.0 unbound
+vertex v139 5.5 -0.87 1.0 unbound
+vertex v140 5.0 0.0 1.0 unbound
+vertex v141 5.5 -0.87 0.0 unbound
+vertex v142 5.0 0.0 0.0 unbound
+vertex v143 5.5 0.87 1.0 unbound
+vertex v144 5.0 1.73 1.0 unbound
+vertex v145 5.5 0.87 0.0 unbound
+vertex v146 5.0 1.73 0.0 unbound
+vertex v147 5.5 2.6 1.0 unbound
+vertex v148 5.0 3.46 1.0 unbound
+vertex v149 4.0 3.46 1.0 unbound
+vertex v150 5.5 2.6 0.0 unbound
+vertex v151 5.0 3.46 0.0 unbound
+vertex v152 4.0 3.46 0.0 unbound
+vertex v153 3.5 4.33 1.0 unbound
+vertex v154 2.5 4.33 1.0 unbound
+vertex v155 3.5 4.33 0.0 unbound
+vertex v156 2.5 4.33 0.0 unbound
+vertex v157 2.0 5.2 1.0 unbound
+vertex v158 1.0 5.2 1.0 unbound
+vertex v159 2.0 5.2 0.0 unbound
+vertex v160 1.0 5.2 0.0 unbound
+vertex v161 0.5 6.06 1.0 unbound
+vertex v162 -0.5 6.06 1.0 unbound
+vertex v163 -1.0 5.2 1.0 unbound
+vertex v164 0.5 6.06 0.0 unbound
+vertex v165 -0.5 6.06 0.0 unbound
+vertex v166 -1.0 5.2 0.0 unbound
+vertex v167 -2.0 5.2 1.0 unbound
+vertex v168 -2.5 4.33 1.0 unbound
+vertex v169 -2.0 5.2 0.0 unbound
+vertex v170 -2.5 4.33 0.0 unbound
+vertex v171 -3.5 4.33 1.0 unbound
+vertex v172 -4.0 3.46 1.0 unbound
+vertex v173 -3.5 4.33 0.0 unbound
+vertex v174 -4.0 3.46 0.0 unbound
+vertex v175 -5.0 1.73 1.0 unbound
+vertex v176 -5.0 3.46 1.0 unbound
+vertex v177 -5.5 2.6 1.0 unbound
+vertex v178 -5.0 1.73 0.0 unbound
+vertex v179 -5.0 3.46 0.0 unbound
+vertex v180 -5.5 2.6 0.0 unbound
+vertex v181 -5.0 0.0 1.0 unbound
+vertex v182 -5.5 0.87 1.0 unbound
+vertex v183 -5.0 0.0 0.0 unbound
+vertex v184 -5.5 0.87 0.0 unbound
+vertex v185 -5.0 -1.73 1.0 unbound
+vertex v186 -5.5 -0.87 1.0 unbound
+vertex v187 -5.0 -1.73 0.0 unbound
+vertex v188 -5.5 -0.87 0.0 unbound
+vertex v189 -5.0 -3.46 1.0 unbound
+vertex v190 -5.5 -2.6 1.0 unbound
+vertex v191 -5.0 -3.46 0.0 unbound
+vertex v192 -5.5 -2.6 0.0 unbound
+vertex v193 -0.5 -7.79 1.0 unbound
+vertex v194 0.5 -7.79 1.0 unbound
+vertex v195 1.0 -6.93 1.0 unbound
+vertex v196 -1.0 -6.93 1.0 unbound
+vertex v197 -0.5 -7.79 0.0 unbound
+vertex v198 0.5 -7.79 0.0 unbound
+vertex v199 1.0 -6.93 0.0 unbound
+vertex v200 -1.0 -6.93 0.0 unbound
+vertex v201 2.0 -6.93 1.0 unbound
+vertex v202 2.5 -6.06 1.0 unbound
+vertex v203 2.0 -6.93 0.0 unbound
+vertex v204 2.5 -6.06 0.0 unbound
+vertex v205 -2.0 -6.93 1.0 unbound
+vertex v206 -2.5 -6.06 1.0 unbound
+vertex v207 -2.0 -6.93 0.0 unbound
+vertex v208 -2.5 -6.06 0.0 unbound
+vertex v209 3.5 -6.06 1.0 unbound
+vertex v210 4.0 -5.2 1.0 unbound
+vertex v211 3.5 -6.06 0.0 unbound
+vertex v212 4.0 -5.2 0.0 unbound
+vertex v213 -3.5 -6.06 1.0 unbound
+vertex v214 -4.0 -5.2 1.0 unbound
+vertex v215 -3.5 -6.06 0.0 unbound
+vertex v216 -4.0 -5.2 0.0 unbound
+vertex v217 5.0 -5.2 1.0 unbound
+vertex v218 5.5 -4.33 1.0 unbound
+vertex v219 5.0 -5.2 0.0 unbound
+vertex v220 5.5 -4.33 0.0 unbound
+vertex v221 -5.0 -5.2 1.0 unbound
+vertex v222 -5.5 -4.33 1.0 unbound
+vertex v223 -5.0 -5.2 0.0 unbound
+vertex v224 -5.5 -4.33 0.0 unbound
+vertex v225 6.5 -4.33 1.0 unbound
+vertex v226 7.0 -3.46 1.0 unbound
+vertex v227 6.5 -2.6 1.0 unbound
+vertex v228 6.5 -4.33 0.0 unbound
+vertex v229 7.0 -3.46 0.0 unbound
+vertex v230 6.5 -2.6 0.0 unbound
+vertex v231 7.0 -1.73 1.0 unbound
+vertex v232 6.5 -0.87 1.0 unbound
+vertex v233 7.0 -1.73 0.0 unbound
+vertex v234 6.5 -0.87 0.0 unbound
+vertex v235 7.0 0.0 1.0 unbound
+vertex v236 6.5 0.87 1.0 unbound
+vertex v237 7.0 0.0 0.0 unbound
+vertex v238 6.5 0.87 0.0 unbound
+vertex v239 7.0 1.73 1.0 unbound
+vertex v240 6.5 2.6 1.0 unbound
+vertex v241 7.0 1.73 0.0 unbound
+vertex v242 6.5 2.6 0.0 unbound
+vertex v243 7.0 3.46 1.0 unbound
+vertex v244 6.5 4.33 1.0 unbound
+vertex v245 5.5 4.33 1.0 unbound
+vertex v246 7.0 3.46 0.0 unbound
+vertex v247 6.5 4.33 0.0 unbound
+vertex v248 5.5 4.33 0.0 unbound
+vertex v249 5.0 5.2 1.0 unbound
+vertex v250 4.0 5.2 1.0 unbound
+vertex v251 5.0 5.2 0.0 unbound
+vertex v252 4.0 5.2 0.0 unbound
+vertex v253 3.5 6.06 1.0 unbound
+vertex v254 2.5 6.06 1.0 unbound
+vertex v255 3.5 6.06 0.0 unbound
+vertex v256 2.5 6.06 0.0 unbound
+vertex v257 2.0 6.93 1.0 unbound
+vertex v258 1.0 6.93 1.0 unbound
+vertex v259 2.0 6.93 0.0 unbound
+vertex v260 1.0 6.93 0.0 unbound
+vertex v261 0.5 7.79 1.0 unbound
+vertex v262 -0.5 7.79 1.0 unbound
+vertex v263 -1.0 6.93 1.0 unbound
+vertex v264 0.5 7.79 0.0 unbound
+vertex v265 -0.5 7.79 0.0 unbound
+vertex v266 -1.0 6.93 0.0 unbound
+vertex v267 -2.0 6.93 1.0 unbound
+vertex v268 -2.5 6.06 1.0 unbound
+vertex v269 -2.0 6.93 0.0 unbound
+vertex v270 -2.5 6.06 0.0 unbound
+vertex v271 -3.5 6.06 1.0 unbound
+vertex v272 -4.0 5.2 1.0 unbound
+vertex v273 -3.5 6.06 0.0 unbound
+vertex v274 -4.0 5.2 0.0 unbound
+vertex v275 -5.0 5.2 1.0 unbound
+vertex v276 -5.5 4.33 1.0 unbound
+vertex v277 -5.0 5.2 0.0 unbound
+vertex v278 -5.5 4.33 0.0 unbound
+vertex v279 -6.5 2.6 1.0 unbound
+vertex v280 -6.5 4.33 1.0 unbound
+vertex v281 -7.0 3.46 1.0 unbound
+vertex v282 -6.5 2.6 0.0 unbound
+vertex v283 -6.5 4.33 0.0 unbound
+vertex v284 -7.0 3.46 0.0 unbound
+vertex v285 -6.5 0.87 1.0 unbound
+vertex v286 -7.0 1.73 1.0 unbound
+vertex v287 -6.5 0.87 0.0 unbound
+vertex v288 -7.0 1.73 0.0 unbound
+vertex v289 -6.5 -0.87 1.0 unbound
+vertex v290 -7.0 0.0 1.0 unbound
+vertex v291 -6.5 -0.87 0.0 unbound
+vertex v292 -7.0 0.0 0.0 unbound
+vertex v293 -6.5 -2.6 1.0 unbound
+vertex v294 -7.0 -1.73 1.0 unbound
+vertex v295 -6.5 -2.6 0.0 unbound
+vertex v296 -7.0 -1.73 0.0 unbound
+vertex v297 -6.5 -4.33 1.0 unbound
+vertex v298 -7.0 -3.46 1.0 unbound
+vertex v299 -6.5 -4.33 0.0 unbound
+vertex v300 -7.0 -3.46 0.0 unbound
+edge a1 v1 v2
+edge a2 v6 v1
+edge a3 v5 v6
+edge a4 v4 v5
+edge a5 v3 v4
+edge a6 v2 v3
+edge b7 v7 v8
+edge b8 v12 v7
+edge b9 v11 v12
+edge b10 v10 v11
+edge b11 v9 v10
+edge b12 v8 v9
+edge l13 v1 v7
+edge l14 v2 v8
+edge l15 v3 v9
+edge l16 v4 v10
+edge l17 v5 v11
+edge l18 v6 v12
+edge a19 v13 v14
+edge a20 v16 v13
+edge a21 v1 v16
+edge a22 v15 v2
+edge a23 v14 v15
+edge b24 v17 v18
+edge b25 v20 v17
+edge b26 v7 v20
+edge b27 v19 v8
+edge b28 v18 v19
+edge l29 v13 v17
+edge l30 v14 v18
+edge l31 v15 v19
+edge l32 v16 v20
+edge a33 v15 v21
+edge a34 v23 v3
+edge a35 v22 v23
+edge a36 v21 v22
+edge b37 v19 v24
+edge b38 v26 v9
+edge b39 v25 v26
+edge b40 v24 v25
+edge l41 v21 v24
+edge l42 v22 v25
+edge l43 v23 v26
+edge a44 v29 v4
+edge a45 v28 v29
+edge a46 v27 v28
+edge a47 v23 v27
+edge b48 v32 v10
+edge b49 v31 v32
+edge b50 v30 v31
+edge b51 v26 v30
+edge l52 v27 v30
+edge l53 v28 v31
+edge l54 v29 v32
+edge a55 v35 v5
+edge a56 v34 v35
+edge a57 v33 v34
+edge a58 v29 v33
+edge b59 v38 v11
+edge b60 v37 v38
+edge b61 v36 v37
+edge b62 v32 v36
+edge l63 v33 v36
+edge l64 v34 v37
+edge l65 v35 v38
+edge a66 v39 v6
+edge a67 v41 v39
+edge a68 v40 v41
+edge a69 v35 v40
+edge b70 v42 v12
+edge b71 v44 v42
+edge b72 v43 v44
+edge b73 v38 v43
+edge l74 v39 v42
+edge l75 v40 v43
+edge l76 v41 v44
+edge a77 v45 v16
+edge a78 v46 v45
+edge a79 v39 v46
+edge b80 v47 v20
+edge b81 v48 v47
+edge b82 v42 v48
+edge l83 v45 v47
+edge l84 v46 v48
+edge a85 v49 v50
+edge a86 v52 v49
+edge a87 v13 v52
+edge a88 v51 v14
+edge a89 v50 v51
+edge b90 v53 v54
+edge b91 v56 v53
+edge b92 v17 v56
+edge b93 v55 v18
+edge b94 v54 v55
+edge l95 v49 v53
+edge l96 v50 v54
+edge l97 v51 v55
+edge l98 v52 v56
+edge a99 v51 v57
+edge a100 v58 v21
+edge a101 v57 v58
+edge b102 v55 v59
+edge b103 v60 v24
+edge b104 v59 v60
+edge l105 v57 v59
+edge l106 v58 v60
+edge a107 v61 v52
+edge a108 v62 v61
+edge a109 v45 v62
+edge b110 v63 v56
+edge b111 v64 v63
+edge b112 v47 v64
+edge l113 v61 v63
+edge l114 v62 v64
+edge a115 v58 v65
+edge a116 v67 v22
+edge a117 v66 v67
+edge a118 v65 v66
+edge b119 v60 v68
+edge b120 v70 v25
+edge b121 v69 v70
+edge b122 v68 v69
+edge l123 v65 v68
+edge l124 v66 v69
+edge l125 v67 v70
+edge a126 v72 v27
+edge a127 v71 v72
+edge a128 v67 v71
+edge b129 v74 v30
+edge b130 v73 v74
+edge b131 v70 v73
+edge l132 v71 v73
+edge l133 v72 v74
+edge a134 v77 v28
+edge a135 v76 v77
+edge a136 v75 v76
+edge a137 v72 v75
+edge b138 v80 v31
+edge b139 v79 v80
+edge b140 v78 v79
+edge b141 v74 v78
+edge l142 v75 v78
+edge l143 v76 v79
+edge l144 v77 v80
+edge a145 v82 v33
+edge a146 v81 v82
+edge a147 v77 v81
+edge b148 v84 v36
+edge b149 v83 v84
+edge b150 v80 v83
+edge l151 v81 v83
+edge l152 v82 v84
+edge a153 v87 v34
+edge a154 v86 v87
+edge a155 v85 v86
+edge a156 v82 v85
+edge b157 v90 v37
+edge b158 v89 v90
+edge b159 v88 v89
+edge b160 v84 v88
+edge l161 v85 v88
+edge l162 v86 v89
+edge l163 v87 v90
+edge a164 v92 v40
+edge a165 v91 v92
+edge a166 v87 v91
+edge b167 v94 v43
+edge b168 v93 v94
+edge b169 v90 v93
+edge l170 v91 v93
+edge l171 v92 v94
+edge a172 v95 v41
+edge a173 v97 v95
+edge a174 v96 v97
+edge a175 v92 v96
+edge b176 v98 v44
+edge b177 v100 v98
+edge b178 v99 v100
+edge b179 v94 v99
+edge l180 v95 v98
+edge l181 v96 v99
+edge l182 v97 v100
+edge a183 v101 v46
+edge a184 v102 v101
+edge a185 v95 v102
+edge b186 v103 v48
+edge b187 v104 v103
+edge b188 v98 v104
+edge l189 v101 v103
+edge l190 v102 v104
+edge a191 v105 v62
+edge a192 v106 v105
+edge a193 v101 v106
+edge b194 v107 v64
+edge b195 v108 v107
+edge b196 v103 v108
+edge l197 v105 v107
+edge l198 v106 v108
+edge a199 v109 v110
+edge a200 v112 v109
+edge a201 v49 v112
+edge a202 v111 v50
+edge a203 v110 v111
+edge b204 v113 v114
+edge b205 v116 v113
+edge b206 v53 v116
+edge b207 v115 v54
+edge b208 v114 v115
+edge l209 v109 v113
+edge l210 v110 v114
+edge l211 v111 v115
+edge l212 v112 v116
+edge a213 v111 v117
+edge a214 v118 v57
+edge a215 v117 v118
+edge b216 v115 v119
+edge b217 v120 v59
+edge b218 v119 v120
+edge l219 v117 v119
+edge l220 v118 v120
+edge a221 v121 v112
+edge a222 v122 v121
+edge a223 v61 v122
+edge b224 v123 v116
+edge b225 v124 v123
+edge b226 v63 v124
+edge l227 v121 v123
+edge l228 v122 v124
+edge a229 v118 v125
+edge a230 v126 v65
+edge a231 v125 v126
+edge b232 v120 v127
+edge b233 v128 v68
+edge b234 v127 v128
+edge l235 v125 v127
+edge l236 v126 v128
+edge a237 v129 v122
+edge a238 v130 v129
+edge a239 v105 v130
+edge b240 v131 v124
+edge b241 v132 v131
+edge b242 v107 v132
+edge l243 v129 v131
+edge l244 v130 v132
+edge a245 v126 v133
+edge a246 v135 v66
+edge a247 v134 v135
+edge a248 v133 v134
+edge b249 v128 v136
+edge b250 v138 v69
+edge b251 v137 v138
+edge b252 v136 v137
+edge l253 v133 v136
+edge l254 v134 v137
+edge l255 v135 v138
+edge a256 v140 v71
+edge a257 v139 v140
+edge a258 v135 v139
+edge b259 v142 v73
+edge b260 v141 v142
+edge b261 v138 v141
+edge l262 v139 v141
+edge l263 v140 v142
+edge a264 v144 v75
+edge a265 v143 v144
+edge a266 v140 v143
+edge b267 v146 v78
+edge b268 v145 v146
+edge b269 v142 v145
+edge l270 v143 v145
+edge l271 v144 v146
+edge a272 v149 v76
+edge a273 v148 v149
+edge a274 v147 v148
+edge a275 v144 v147
+edge b276 v152 v79
+edge b277 v151 v152
+edge b278 v150 v151
+edge b279 v146 v150
+edge l280 v147 v150
+edge l281 v148 v151
+edge l282 v149 v152
+edge a283 v154 v81
+edge a284 v153 v154
+edge a285 v149 v153
+edge b286 v156 v83
+edge b287 v155 v156
+edge b288 v152 v155
+edge l289 v153 v155
+edge l290 v154 v156
+edge a291 v158 v85
+edge a292 v157 v158
+edge a293 v154 v157
+edge b294 v160 v88
+edge b295 v159 v160
+edge b296 v156 v159
+edge l297 v157 v159
+edge l298 v158 v160
+edge a299 v163 v86
+edge a300 v162 v163
+edge a301 v161 v162
+edge a302 v158 v161
+edge b303 v166 v89
+edge b304 v165 v166
+edge b305 v164 v165
+edge b306 v160 v164
+edge l307 v161 v164
+edge l308 v162 v165
+edge l309 v163 v166
+edge a310 v168 v91
+edge a311 v167 v168
+edge a312 v163 v167
+edge b313 v170 v93
+edge b314 v169 v170
+edge b315 v166 v169
+edge l316 v167 v169
+edge l317 v168 v170
+edge a318 v172 v96
+edge a319 v171 v172
+edge a320 v168 v171
+edge b321 v174 v99
+edge b322 v173 v174
+edge b323 v170 v173
+edge l324 v171 v173
+edge l325 v172 v174
+edge a326 v175 v97
+edge a327 v177 v175
+edge a328 v176 v177
+edge a329 v172 v176
+edge b330 v178 v100
+edge b331 v180 v178
+edge b332 v179 v180
+edge b333 v174 v179
+edge l334 v175 v178
+edge l335 v176 v179
+edge l336 v177 v180
+edge a337 v181 v102
+edge a338 v182 v181
+edge a339 v175 v182
+edge b340 v183 v104
+edge b341 v184 v183
+edge b342 v178 v184
+edge l343 v181 v183
+edge l344 v182 v184
+edge a345 v185 v106
+edge a346 v186 v185
+edge a347 v181 v186
+edge b348 v187 v108
+edge b349 v188 v187
+edge b350 v183 v188
+edge l351 v185 v187
+edge l352 v186 v188
+edge a353 v189 v130
+edge a354 v190 v189
+edge a355 v185 v190
+edge b356 v191 v132
+edge b357 v192 v191
+edge b358 v187 v192
+edge l359 v189 v191
+edge l360 v190 v192
+edge a361 v193 v194
+edge a362 v196 v193
+edge a363 v109 v196
+edge a364 v195 v110
+edge a365 v194 v195
+edge b366 v197 v198
+edge b367 v200 v197
+edge b368 v113 v200
+edge b369 v199 v114
+edge b370 v198 v199
+edge l371 v193 v197
+edge l372 v194 v198
+edge l373 v195 v199
+edge l374 v196 v200
+edge a375 v195 v201
+edge a376 v202 v117
+edge a377 v201 v202
+edge b378 v199 v203
+edge b379 v204 v119
+edge b380 v203 v204
+edge l381 v201 v203
+edge l382 v202 v204
+edge a383 v205 v196
+edge a384 v206 v205
+edge a385 v121 v206
+edge b386 v207 v200
+edge b387 v208 v207
+edge b388 v123 v208
+edge l389 v205 v207
+edge l390 v206 v208
+edge a391 v202 v209
+edge a392 v210 v125
+edge a393 v209 v210
+edge b394 v204 v211
+edge b395 v212 v127
+edge b396 v211 v212
+edge l397 v209 v211
+edge l398 v210 v212
+edge a399 v213 v206
+edge a400 v214 v213
+edge a401 v129 v214
+edge b402 v215 v208
+edge b403 v216 v215
+edge b404 v131 v216
+edge l405 v213 v215
+edge l406 v214 v216
+edge a407 v210 v217
+edge a408 v218 v133
+edge a409 v217 v218
+edge b410 v212 v219
+edge b411 v220 v136
+edge b412 v219 v220
+edge l413 v217 v219
+edge l414 v218 v220
+edge a415 v221 v214
+edge a416 v222 v221
+edge a417 v189 v222
+edge b418 v223 v216
+edge b419 v224 v223
+edge b420 v191 v224
+edge l421 v221 v223
+edge l422 v222 v224
+edge a423 v218 v225
+edge a424 v227 v134
+edge a425 v226 v227
+edge a426 v225 v226
+edge b427 v220 v228
+edge b428 v230 v137
+edge b429 v229 v230
+edge b430 v228 v229
+edge l431 v225 v228
+edge l432 v226 v229
+edge l433 v227 v230
+edge a434 v232 v139
+edge a435 v231 v232
+edge a436 v227 v231
+edge b437 v234 v141
+edge b438 v233 v234
+edge b439 v230 v233
+edge l440 v231 v233
+edge l441 v232 v234
+edge a442 v236 v143
+edge a443 v235 v236
+edge a444 v232 v235
+edge b445 v238 v145
+edge b446 v237 v238
+edge b447 v234 v237
+edge l448 v235 v237
+edge l449 v236 v238
+edge a450 v240 v147
+edge a451 v239 v240
+edge a452 v236 v239
+edge b453 v242 v150
+edge b454 v241 v242
+edge b455 v238 v241
+edge l456 v239 v241
+edge l457 v240 v242
+edge a458 v245 v148
+edge a459 v244 v245
+edge a460 v243 v244
+edge a461 v240 v243
+edge b462 v248 v151
+edge b463 v247 v248
+edge b464 v246 v247
+edge b465 v242 v246
+edge l466 v243 v246
+edge l467 v244 v247
+edge l468 v245 v248
+edge a469 v250 v153
+edge a470 v249 v250
+edge a471 v245 v249
+edge b472 v252 v155
+edge b473 v251 v252
+edge b474 v248 v251
+edge l475 v249 v251
+edge l476 v250 v252
+edge a477 v254 v157
+edge a478 v253 v254
+edge a479 v250 v253
+edge b480 v256 v159
+edge b481 v255 v256
+edge b482 v252 v255
+edge l483 v253 v255
+edge l484 v254 v256
+edge a485 v258 v161
+edge a486 v257 v258
+edge a487 v254 v257
+edge b488 v260 v164
+edge b489 v259 v260
+edge b490 v256 v259
+edge l491 v257 v259
+edge l492 v258 v260
+edge a493 v263 v162
+edge a494 v262 v263
+edge a495 v261 v262
+edge a496 v258 v261
+edge b497 v266 v165
+edge b498 v265 v266
+edge b499 v264 v265
+edge b500 v260 v264
+edge l501 v261 v264
+edge l502 v262 v265
+edge l503 v263 v266
+edge a504 v268 v167
+edge a505 v267 v268
+edge a506 v263 v267
+edge b507 v270 v169
+edge b508 v269 v270
+edge b509 v266 v269
+edge l510 v267 v269
+edge l511 v268 v270
+edge a512 v272 v171
+edge a513 v271 v272
+edge a514 v268 v271
+edge b515 v274 v173
+edge b516 v273 v274
+edge b517 v270 v273
+edge l518 v271 v273
+edge l519 v272 v274
+edge a520 v276 v176
+edge a521 v275 v276
+edge a522 v272 v275
+edge b523 v278 v179
+edge b524 v277 v278
+edge b525 v274 v277
+edge l526 v275 v277
+edge l527 v276 v278
+edge a528 v279 v177
+edge a529 v281 v279
+edge a530 v280 v281
+edge a531 v276 v280
+edge b532 v282 v180
+edge b533 v284 v282
+edge b534 v283 v284
+edge b535 v278 v283
+edge l536 v279 v282
+edge l537 v280 v283
+edge l538 v281 v284
+edge a539 v285 v182
+edge a540 v286 v285
+edge a541 v279 v286
+edge b542 v287 v184
+edge b543 v288 v287
+edge b544 v282 v288
+edge l545 v285 v287
+edge l546 v286 v288
+edge a547 v289 v186
+edge a548 v290 v289
+edge a549 v285 v290
+edge b550 v291 v188
+edge b551 v292 v291
+edge b552 v287 v292
+edge l553 v289 v291
+edge l554 v290 v292
+edge a555 v293 v190
+edge a556 v294 v293
+edge a557 v289 v294
+edge b558 v295 v192
+edge b559 v296 v295
+edge b560 v291 v296
+edge l561 v293 v295
+edge l562 v294 v296
+edge a563 v297 v222
+edge a564 v298 v297
+edge a565 v293 v298
+edge b566 v299 v224
+edge b567 v300 v299
+edge b568 v295 v300
+edge l569 v297 v299
+edge l570 v298 v300
+cell c1 a1 1 a2 1 a3 1 a4 1 a5 1 a6 1 b7 -1 b8 -1 b9 -1 b10 -1 b11 -1 b12 -1 l13 l14 l15 l16 l17 l18
+cell c2 a19 1 a20 1 a21 1 a1 -1 a22 1 a23 1 b24 -1 b25 -1 b26 -1 b7 1 b27 -1 b28 -1 l29 l30 l31 l14 l13 l32
+cell c3 a33 1 a22 -1 a6 -1 a34 1 a35 1 a36 1 b37 -1 b27 1 b12 1 b38 -1 b39 -1 b40 -1 l31 l41 l42 l43 l15 l14
+cell c4 a34 -1 a5 -1 a44 1 a45 1 a46 1 a47 1 b38 1 b11 1 b48 -1 b49 -1 b50 -1 b51 -1 l15 l43 l52 l53 l54 l16
+cell c5 a4 -1 a55 1 a56 1 a57 1 a58 1 a44 -1 b10 1 b59 -1 b60 -1 b61 -1 b62 -1 b48 1 l17 l16 l54 l63 l64 l65
+cell c6 a66 1 a67 1 a68 1 a69 1 a55 -1 a3 -1 b70 -1 b71 -1 b72 -1 b73 -1 b59 1 b9 1 l74 l18 l17 l65 l75 l76
+cell c7 a77 1 a78 1 a79 1 a66 -1 a2 -1 a21 -1 b80 -1 b81 -1 b82 -1 b70 1 b8 1 b26 1 l83 l32 l13 l18 l74 l84
+cell c8 a85 1 a86 1 a87 1 a19 -1 a88 1 a89 1 b90 -1 b91 -1 b92 -1 b24 1 b93 -1 b94 -1 l95 l96 l97 l30 l29 l98
+cell c9 a99 1 a88 -1 a23 -1 a33 -1 a100 1 a101 1 b102 -1 b93 1 b28 1 b37 1 b103 -1 b104 -1 l97 l105 l106 l41 l31 l30
+cell c10 a107 1 a108 1 a109 1 a77 -1 a20 -1 a87 -1 b110 -1 b111 -1 b112 -1 b80 1 b25 1 b92 1 l113 l98 l29 l32 l83 l114
+cell c11 a115 1 a100 -1 a36 -1 a116 1 a117 1 a118 1 b119 -1 b103 1 b40 1 b120 -1 b121 -1 b122 -1 l106 l123 l124 l125 l42 l41
+cell c12 a116 -1 a35 -1 a47 -1 a126 1 a127 1 a128 1 b120 1 b39 1 b51 1 b129 -1 b130 -1 b131 -1 l42 l125 l132 l133 l52 l43
+cell c13 a126 -1 a46 -1 a134 1 a135 1 a136 1 a137 1 b129 1 b50 1 b138 -1 b139 -1 b140 -1 b141 -1 l52 l133 l142 l143 l144 l53
+cell c14 a45 -1 a58 -1 a145 1 a146 1 a147 1 a134 -1 b49 1 b62 1 b148 -1 b149 -1 b150 -1 b138 1 l54 l53 l144 l151 l152 l63
+cell c15 a57 -1 a153 1 a154 1 a155 1 a156 1 a145 -1 b61 1 b157 -1 b158 -1 b159 -1 b160 -1 b148 1 l64 l63 l152 l161 l162 l163
+cell c16 a69 -1 a164 1 a165 1 a166 1 a153 -1 a56 -1 b73 1 b167 -1 b168 -1 b169 -1 b157 1 b60 1 l75 l65 l64 l163 l170 l171
+cell c17 a172 1 a173 1 a174 1 a175 1 a164 -1 a68 -1 b176 -1 b177 -1 b178 -1 b179 -1 b167 1 b72 1 l180 l76 l75 l171 l181 l182
+cell c18 a183 1 a184 1 a185 1 a172 -1 a67 -1 a79 -1 b186 -1 b187 -1 b188 -1 b176 1 b71 1 b82 1 l189 l84 l74 l76 l180 l190
+cell c19 a191 1 a192 1 a193 1 a183 -1 a78 -1 a109 -1 b194 -1 b195 -1 b196 -1 b186 1 b81 1 b112 1 l197 l114 l83 l84 l189 l198
+cell c20 a199 1 a200 1 a201 1 a85 -1 a202 1 a203 1 b204 -1 b205 -1 b206 -1 b90 1 b207 -1 b208 -1 l209 l210 l211 l96 l95 l212
+cell c21 a213 1 a202 -1 a89 -1 a99 -1 a214 1 a215 1 b216 -1 b207 1 b94 1 b102 1 b217 -1 b218 -1 l211 l219 l220 l105 l97 l96
+cell c22 a221 1 a222 1 a223 1 a107 -1 a86 -1 a201 -1 b224 -1 b225 -1 b226 -1 b110 1 b91 1 b206 1 l227 l212 l95 l98 l113 l228
+cell c23 a229 1 a214 -1 a101 -1 a115 -1 a230 1 a231 1 b232 -1 b217 1 b104 1 b119 1 b233 -1 b234 -1 l220 l235 l236 l123 l106 l105
+cell c24 a237 1 a238 1 a239 1 a191 -1 a108 -1 a223 -1 b240 -1 b241 -1 b242 -1 b194 1 b111 1 b226 1 l243 l228 l113 l114 l197 l244
+cell c25 a245 1 a230 -1 a118 -1 a246 1 a247 1 a248 1 b249 -1 b233 1 b122 1 b250 -1 b251 -1 b252 -1 l236 l253 l254 l255 l124 l123
+cell c26 a246 -1 a117 -1 a128 -1 a256 1 a257 1 a258 1 b250 1 b121 1 b131 1 b259 -1 b260 -1 b261 -1 l124 l255 l262 l263 l132 l125
+cell c27 a256 -1 a127 -1 a137 -1 a264 1 a265 1 a266 1 b259 1 b130 1 b141 1 b267 -1 b268 -1 b269 -1 l132 l263 l270 l271 l142 l133
+cell c28 a264 -1 a136 -1 a272 1 a273 1 a274 1 a275 1 b267 1 b140 1 b276 -1 b277 -1 b278 -1 b279 -1 l142 l271 l280 l281 l282 l143
+cell c29 a135 -1 a147 -1 a283 1 a284 1 a285 1 a272 -1 b139 1 b150 1 b286 -1 b287 -1 b288 -1 b276 1 l144 l143 l282 l289 l290 l151
+cell c30 a146 -1 a156 -1 a291 1 a292 1 a293 1 a283 -1 b149 1 b160 1 b294 -1 b295 -1 b296 -1 b286 1 l152 l151 l290 l297 l298 l161
+cell c31 a155 -1 a299 1 a300 1 a301 1 a302 1 a291 -1 b159 1 b303 -1 b304 -1 b305 -1 b306 -1 b294 1 l162 l161 l298 l307 l308 l309
+cell c32 a166 -1 a310 1 a311 1 a312 1 a299 -1 a154 -1 b169 1 b313 -1 b314 -1 b315 -1 b303 1 b158 1 l170 l163 l162 l309 l316 l317
+cell c33 a175 -1 a318 1 a319 1 a320 1 a310 -1 a165 -1 b179 1 b321 -1 b322 -1 b323 -1 b313 1 b168 1 l181 l171 l170 l317 l324 l325
+cell c34 a326 1 a327 1 a328 1 a329 1 a318 -1 a174 -1 b330 -1 b331 -1 b332 -1 b333 -1 b321 1 b178 1 l334 l182 l181 l325 l335 l336
+cell c35 a337 1 a338 1 a339 1 a326 -1 a173 -1 a185 -1 b340 -1 b341 -1 b342 -1 b330 1 b177 1 b188 1 l343 l190 l180 l182 l334 l344
+cell c36 a345 1 a346 1 a347 1 a337 -1 a184 -1 a193 -1 b348 -1 b349 -1 b350 -1 b340 1 b187 1 b196 1 l351 l198 l189 l190 l343 l352
+cell c37 a353 1 a354 1 a355 1 a345 -1 a192 -1 a239 -1 b356 -1 b357 -1 b358 -1 b348 1 b195 1 b242 1 l359 l244 l197 l198 l351 l360
+cell c38 a361 1 a362 1 a363 1 a199 -1 a364 1 a365 1 b366 -1 b367 -1 b368 -1 b204 1 b369 -1 b370 -1 l371 l372 l373 l210 l209 l374
+cell c39 a375 1 a364 -1 a203 -1 a213 -1 a376 1 a377 1 b378 -1 b369 1 b208 1 b216 1 b379 -1 b380 -1 l373 l381 l382 l219 l211 l210
+cell c40 a383 1 a384 1 a385 1 a221 -1 a200 -1 a363 -1 b386 -1 b387 -1 b388 -1 b224 1 b205 1 b368 1 l389 l374 l209 l212 l227 l390
+cell c41 a391 1 a376 -1 a215 -1 a229 -1 a392 1 a393 1 b394 -1 b379 1 b218 1 b232 1 b395 -1 b396 -1 l382 l397 l398 l235 l220 l219
+cell c42 a399 1 a400 1 a401 1 a237 -1 a222 -1 a385 -1 b402 -1 b403 -1 b404 -1 b240 1 b225 1 b388 1 l405 l390 l227 l228 l243 l406
+cell c43 a407 1 a392 -1 a231 -1 a245 -1 a408 1 a409 1 b410 -1 b395 1 b234 1 b249 1 b411 -1 b412 -1 l398 l413 l414 l253 l236 l235
+cell c44 a415 1 a416 1 a417 1 a353 -1 a238 -1 a401 -1 b418 -1 b419 -1 b420 -1 b356 1 b241 1 b404 1 l421 l406 l243 l244 l359 l422
+cell c45 a423 1 a408 -1 a248 -1 a424 1 a425 1 a426 1 b427 -1 b411 1 b252 1 b428 -1 b429 -1 b430 -1 l414 l431 l432 l433 l254 l253
+cell c46 a424 -1 a247 -1 a258 -1 a434 1 a435 1 a436 1 b428 1 b251 1 b261 1 b437 -1 b438 -1 b439 -1 l254 l433 l440 l441 l262 l255
+cell c47 a434 -1 a257 -1 a266 -1 a442 1 a443 1 a444 1 b437 1 b260 1 b269 1 b445 -1 b446 -1 b447 -1 l262 l441 l448 l449 l270 l263
+cell c48 a442 -1 a265 -1 a275 -1 a450 1 a451 1 a452 1 b445 1 b268 1 b279 1 b453 -1 b454 -1 b455 -1 l270 l449 l456 l457 l280 l271
+cell c49 a450 -1 a274 -1 a458 1 a459 1 a460 1 a461 1 b453 1 b278 1 b462 -1 b463 -1 b464 -1 b465 -1 l280 l457 l466 l467 l468 l281
+cell c50 a273 -1 a285 -1 a469 1 a470 1 a471 1 a458 -1 b277 1 b288 1 b472 -1 b473 -1 b474 -1 b462 1 l282 l281 l468 l475 l476 l289
+cell c51 a284 -1 a293 -1 a477 1 a478 1 a479 1 a469 -1 b287 1 b296 1 b480 -1 b481 -1 b482 -1 b472 1 l290 l289 l476 l483 l484 l297
+cell c52 a292 -1 a302 -1 a485 1 a486 1 a487 1 a477 -1 b295 1 b306 1 b488 -1 b489 -1 b490 -1 b480 1 l298 l297 l484 l491 l492 l307
+cell c53 a301 -1 a493 1 a494 1 a495 1 a496 1 a485 -1 b305 1 b497 -1 b498 -1 b499 -1 b500 -1 b488 1 l308 l307 l492 l501 l502 l503
+cell c54 a312 -1 a504 1 a505 1 a506 1 a493 -1 a300 -1 b315 1 b507 -1 b508 -1 b509 -1 b497 1 b304 1 l316 l309 l308 l503 l510 l511
+cell c55 a320 -1 a512 1 a513 1 a514 1 a504 -1 a311 -1 b323 1 b515 -1 b516 -1 b517 -1 b507 1 b314 1 l324 l317 l316 l511 l518 l519
+cell c56 a329 -1 a520 1 a521 1 a522 1 a512 -1 a319 -1 b333 1 b523 -1 b524 -1 b525 -1 b515 1 b322 1 l335 l325 l324 l519 l526 l527
+cell c57 a528 1 a529 1 a530 1 a531 1 a520 -1 a328 -1 b532 -1 b533 -1 b534 -1 b535 -1 b523 1 b332 1 l536 l336 l335 l527 l537 l538
+cell c58 a539 1 a540 1 a541 1 a528 -1 a327 -1 a339 -1 b542 -1 b543 -1 b544 -1 b532 1 b331 1 b342 1 l545 l344 l334 l336 l536 l546
+cell c59 a547 1 a548 1 a549 1 a539 -1 a338 -1 a347 -1 b550 -1 b551 -1 b552 -1 b542 1 b341 1 b350 1 l553 l352 l343 l344 l545 l554
+cell c60 a555 1 a556 1 a557 1 a547 -1 a346 -1 a355 -1 b558 -1 b559 -1 b560 -1 b550 1 b349 1 b358 1 l561 l360 l351 l352 l553 l562
+cell c61 a563 1 a564 1 a565 1 a555 -1 a354 -1 a417 -1 b566 -1 b567 -1 b568 -1 b558 1 b357 1 b420 1 l569 l422 l359 l360 l561 l570
